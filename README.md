@@ -6,33 +6,37 @@ I enjoy working on problems that require both theoretical grounding and practica
 
 # Current Focus
 
-I am currently working as a Data Scientist / Machine Learning Researcher at the University of Buenos Aires, where I focus on the characterization of water resources under climate change scenarios using statistical modeling and machine learning techniques.
+I am currently working as a **Data Scientist / Machine Learning Researcher** at the **University of Buenos Aires**. I am part of the **Group of Intelligent Systems (SI)** (https://gsi.dc.uba.ar/)
 
-My current work includes:
-
-Adapting and calibrating hydrological models (SIMPLE-G) to the Argentine context
-Integrating large-scale climatic, agricultural, and economic datasets
-Applying machine learning methods to environmental and climate-related problems
+My work focuses on applying statistical modeling and machine learning techniques to real-world problems, particularly in interdisciplinary research settings.
 
 # Past Projects
 
 Some of my previous and ongoing projects include:
 
-## Computer Vision for Yeast Detection and Classification
-Designed and implemented an end-to-end computer vision system to automatically detect and classify yeasts in microscopic images. Trained and evaluated CNN-based image classification models, optimizing accuracy and robustness.
-This project resulted in a functional prototype developed in collaboration with CONICET researchers and microbrew.ar, and was presented at multiple academic conferences.
-
+### Computer Vision for Yeast Detection and Classification
+- Designed and implemented an end-to-end computer vision system for automatic yeast detection and classification in microscopic images
+- Trained and evaluated CNN-based image classification models, optimizing accuracy and robustness
+- Developed a functional prototype in collaboration with CONICET researchers and microbrew.ar
+- Presented results at multiple academic conferences
+  
 ## Data Analysis for Decision Support
-Worked as a Data Analyst at Universidad de San Andrés, performing data cleaning, exploratory analysis, and SQL-based querying to generate reports and visualizations aimed at supporting institutional decision-making.
+- Worked as a Data Analyst at Universidad de San Andrés
+- Performed data cleaning, exploratory data analysis, and SQL-based querying
+- Generated reports and visualizations to support institutional decision-making
 
-## Academic Research in Machine Learning and Applied Statistics
-Conducted research in optimal transport, measure quantization, and machine learning, with a focus on both theoretical foundations and practical applications.
-My undergraduate thesis, “Measure Quantization for Machine Learning”, provides a theoretical study of quantizers, including proofs of their structural properties and their relationship with Wasserstein barycenters.
-The work also explores applications of measure quantization in image processing and federated learning, and was presented through poster contributions at national and international conferences.
+### 📐 Machine Learning & Applied Statistics Research
+- Research in optimal transport, measure quantization, and machine learning
+- Undergraduate thesis: *Measure Quantization for Machine Learning*
+  - Theoretical study of quantizers and their structural properties
+  - Connections with Wasserstein barycenters
+  - Applications to image processing and federated learning
+- Work presented via poster contributions at CLAPEM
 
-## Polynomial Graph Class Recognition Algorithm
-Developed the theoretical foundations of a graph class defined by a set of forbidden patterns, and designed a polynomial-time recognition algorithm based on this characterization.
-The work involved formal graph-theoretic analysis, identification of minimal obstructions, and the translation of structural properties into an efficient algorithmic procedure for class membership testing.
+### Polynomial Graph Class Recognition
+- Developed the theoretical characterization of a graph class defined by forbidden patterns
+- Designed a polynomial-time recognition algorithm based on this structure
+- Combined formal graph-theoretic analysis with efficient algorithmic design
 
 # Background
 
