@@ -25,7 +25,7 @@ Some of my previous and ongoing projects include:
 - Performed data cleaning, exploratory data analysis, and SQL-based querying
 - Generated reports and visualizations to support institutional decision-making
 
-### 📐 Machine Learning & Applied Statistics Research
+### Machine Learning & Applied Statistics Research
 - Research in optimal transport, measure quantization, and machine learning
 - Undergraduate thesis: *Measure Quantization for Machine Learning*
   - Theoretical study of quantizers and their structural properties
