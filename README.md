@@ -20,12 +20,12 @@ Some of my previous and ongoing projects include:
 - Developed a functional prototype in collaboration with CONICET researchers and microbrew.ar
 - Presented results at multiple academic conferences
   
-## Data Analysis for Decision Support
+### Data Analysis for Decision Support
 - Worked as a Data Analyst at Universidad de San Andrés
 - Performed data cleaning, exploratory data analysis, and SQL-based querying
 - Generated reports and visualizations to support institutional decision-making
 
-## Machine Learning & Applied Statistics Research
+### Machine Learning & Applied Statistics Research
 https://github.com/noefalczuk/Cuantizacion-de-Medida-para-Aprendizaje-Automatico
 - Research in optimal transport, measure quantization, and machine learning
 - Undergraduate thesis: *Measure Quantization for Machine Learning*
@@ -34,7 +34,7 @@ https://github.com/noefalczuk/Cuantizacion-de-Medida-para-Aprendizaje-Automatico
   - Applications to image processing and federated learning
 - Work presented via poster contributions at CLAPEM
 
-## Polynomial Graph Class Recognition
+### Polynomial Graph Class Recognition
 https://github.com/noefalczuk/Investigathon-graph-class-recognition
 - Developed the theoretical characterization of a graph class defined by forbidden patterns
 - Designed a polynomial-time recognition algorithm based on this structure
