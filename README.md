@@ -36,6 +36,9 @@ The work involved formal graph-theoretic analysis, identification of minimal obs
 
 # Background
 
-I hold a BSc in Data Science from the University of Buenos Aires, graduating with a GPA of 9.70/10. My academic training is complemented by intensive courses and schools in deep learning, computer vision, large language models, and complex systems.
+- **BSc in Data Science**, University of Buenos Aires — GPA: **9.70 / 10**
 
-I am fluent in Spanish (native), proficient in English (C1), and have intermediate proficiency in French (B2).
+**Languages**
+- Spanish (native)
+- English (C1)
+- French (B2)
