@@ -48,3 +48,6 @@ https://github.com/noefalczuk/Investigathon-graph-class-recognition
 - Spanish (native)
 - English (C1)
 - French (B2)
+
+🔹 LinkedIn: [https://github.com/tuusuario](https://www.linkedin.com/in/noelia-falczuk/)
+🔹 Contacto: noefalzuk@gmail.com
