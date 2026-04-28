@@ -14,7 +14,14 @@ My work focuses on applying statistical modeling and machine learning techniques
 
 Some of my previous and ongoing projects include:
 
+### Research Intern – Machine Learning for Climate Modeling  
+- Designed and implemented deep learning models (CNNs, RNNs, Transformers) for image and time series analysis  
+- Generated embeddings from satellite data and temporal sequences to model climate-related phenomena  
+- Trained, validated, and optimized predictive models for typhoon intensity estimation  
+- Processed and analyzed large-scale datasets using Python (NumPy, Pandas, PyTorch, TensorFlow)  
+
 ### Computer Vision for Yeast Detection and Classification
+https://github.com/noefalczuk/Detecci-n-Autom-tica-De-Levaduras
 - Designed and implemented an end-to-end computer vision system for automatic yeast detection and classification in microscopic images
 - Trained and evaluated CNN-based image classification models, optimizing accuracy and robustness
 - Developed a functional prototype in collaboration with CONICET researchers and microbrew.ar
